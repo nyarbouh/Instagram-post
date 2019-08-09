@@ -1,0 +1,29 @@
+
+#myTitle {
+   font-family: 'Indie Flower', cursive;
+}
+
+
+.grey-btn{
+	padding: 5px; border-radius: 4px;background-color: #ff3385;text-decoration: none; color: black;
+    position:absolute;
+    bottom:-100px;
+    right:25%;
+    left:50%;
+    margin-left:-150px; text-align: center;
+}
+
+
+.grey-btn:hover{
+  background-color: #660033;
+}
+img {width: 75px; height: 75px; }
+
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
+
+ol {list-style-type: none;
+}
